@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d180d517-0db6-478d-a246-10f498fb6939" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/calculator.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/CalorieCounter.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/SuperString.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studentScore.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/UsingModules.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/CalorieCounter.lua" beforeDir="false" afterPath="$PROJECT_DIR$/oop/CalorieCounter.lua" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -55,11 +53,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CalorieCounter.lua" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CalorieCounter.lua" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oop/CalorieCounter.lua">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+            <state relative-caret-position="369">
+              <caret line="78" column="34" selection-start-line="78" selection-start-column="34" selection-end-line="78" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UsingModules.lua" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/oop/UsingModules.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -76,6 +83,8 @@
         <option value="$PROJECT_DIR$/calculator.lua" />
         <option value="$PROJECT_DIR$/studentScore.lua" />
         <option value="$PROJECT_DIR$/oop/SuperString.lua" />
+        <option value="$PROJECT_DIR$/oop/CalorieCounter.lua" />
+        <option value="$PROJECT_DIR$/oop/UsingModules.lua" />
       </list>
     </option>
   </component>
@@ -89,8 +98,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="588" />
-    <option name="y" value="79" />
+    <option name="x" value="614" />
+    <option name="y" value="60" />
     <option name="width" value="945" />
     <option name="height" value="815" />
   </component>
@@ -137,71 +146,71 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Lua Script.SuperString.lua (3)">
-    <configuration name="SuperString.lua (1)" type="#com.sylvanaar.idea.Lua.run.LuaConfigurationType" factoryName="Lua Script" temporary="true">
+  <component name="RunManager" selected="Lua Script.UsingModules.lua (1)">
+    <configuration name="CalorieCounter.lua (1)" type="#com.sylvanaar.idea.Lua.run.LuaConfigurationType" factoryName="Lua Script" temporary="true">
       <module name="Lua-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="INTERPRETER_PATH" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="PARENT_ENVS" value="true" />
       <option name="ALTERNATE_INTERPRETER" value="false" />
-      <option name="SCRIPT_NAME" value="oop/SuperString.lua" />
+      <option name="SCRIPT_NAME" value="oop/CalorieCounter.lua" />
       <option name="PARAMETERS" value="" />
     </configuration>
-    <configuration name="SuperString.lua (2)" type="#com.sylvanaar.idea.Lua.run.LuaConfigurationType" factoryName="Lua Script" temporary="true">
+    <configuration name="CalorieCounter.lua (2)" type="#com.sylvanaar.idea.Lua.run.LuaConfigurationType" factoryName="Lua Script" temporary="true">
       <module name="Lua-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="INTERPRETER_PATH" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="PARENT_ENVS" value="true" />
       <option name="ALTERNATE_INTERPRETER" value="false" />
-      <option name="SCRIPT_NAME" value="oop/SuperString.lua" />
+      <option name="SCRIPT_NAME" value="oop/CalorieCounter.lua" />
       <option name="PARAMETERS" value="" />
     </configuration>
-    <configuration name="SuperString.lua (3)" type="#com.sylvanaar.idea.Lua.run.LuaConfigurationType" factoryName="Lua Script" temporary="true">
+    <configuration name="CalorieCounter.lua" type="#com.sylvanaar.idea.Lua.run.LuaConfigurationType" factoryName="Lua Script" temporary="true">
       <module name="Lua-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="INTERPRETER_PATH" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="PARENT_ENVS" value="true" />
       <option name="ALTERNATE_INTERPRETER" value="false" />
-      <option name="SCRIPT_NAME" value="oop/SuperString.lua" />
+      <option name="SCRIPT_NAME" value="oop/CalorieCounter.lua" />
       <option name="PARAMETERS" value="" />
     </configuration>
-    <configuration name="SuperString.lua" type="#com.sylvanaar.idea.Lua.run.LuaConfigurationType" factoryName="Lua Script" temporary="true">
+    <configuration name="UsingModules.lua (1)" type="#com.sylvanaar.idea.Lua.run.LuaConfigurationType" factoryName="Lua Script" temporary="true">
       <module name="Lua-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="INTERPRETER_PATH" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="PARENT_ENVS" value="true" />
       <option name="ALTERNATE_INTERPRETER" value="false" />
-      <option name="SCRIPT_NAME" value="oop/SuperString.lua" />
+      <option name="SCRIPT_NAME" value="oop/UsingModules.lua" />
       <option name="PARAMETERS" value="" />
     </configuration>
-    <configuration name="studentScore.lua (3)" type="#com.sylvanaar.idea.Lua.run.LuaConfigurationType" factoryName="Lua Script" temporary="true">
+    <configuration name="UsingModules.lua" type="#com.sylvanaar.idea.Lua.run.LuaConfigurationType" factoryName="Lua Script" temporary="true">
       <module name="Lua-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="INTERPRETER_PATH" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="PARENT_ENVS" value="true" />
       <option name="ALTERNATE_INTERPRETER" value="false" />
-      <option name="SCRIPT_NAME" value="studentScore.lua" />
+      <option name="SCRIPT_NAME" value="oop/UsingModules.lua" />
       <option name="PARAMETERS" value="" />
     </configuration>
     <list>
-      <item itemvalue="Lua Script.studentScore.lua (3)" />
-      <item itemvalue="Lua Script.SuperString.lua" />
-      <item itemvalue="Lua Script.SuperString.lua (1)" />
-      <item itemvalue="Lua Script.SuperString.lua (2)" />
-      <item itemvalue="Lua Script.SuperString.lua (3)" />
+      <item itemvalue="Lua Script.CalorieCounter.lua" />
+      <item itemvalue="Lua Script.CalorieCounter.lua (1)" />
+      <item itemvalue="Lua Script.CalorieCounter.lua (2)" />
+      <item itemvalue="Lua Script.UsingModules.lua" />
+      <item itemvalue="Lua Script.UsingModules.lua (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Lua Script.SuperString.lua (3)" />
-        <item itemvalue="Lua Script.SuperString.lua (2)" />
-        <item itemvalue="Lua Script.SuperString.lua (1)" />
-        <item itemvalue="Lua Script.SuperString.lua" />
-        <item itemvalue="Lua Script.studentScore.lua (3)" />
+        <item itemvalue="Lua Script.UsingModules.lua (1)" />
+        <item itemvalue="Lua Script.UsingModules.lua" />
+        <item itemvalue="Lua Script.CalorieCounter.lua (2)" />
+        <item itemvalue="Lua Script.CalorieCounter.lua (1)" />
+        <item itemvalue="Lua Script.CalorieCounter.lua" />
       </list>
     </recent_temporary>
   </component>
@@ -215,28 +224,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532251100398</updated>
-      <workItem from="1532251104827" duration="7118000" />
+      <workItem from="1532251104827" duration="9165000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7118000" />
+    <option name="totallyTimeSpent" value="9165000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="588" y="79" width="945" height="815" extended-state="0" />
+    <frame x="614" y="60" width="945" height="815" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14708994" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14708994" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="LuaJ" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33768117" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33768117" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997175" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39855072" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -283,8 +292,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/oop/CalorieCounter.lua">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        <state relative-caret-position="369">
+          <caret line="78" column="34" selection-start-line="78" selection-start-column="34" selection-end-line="78" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/UsingModules.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
